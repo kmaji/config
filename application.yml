@@ -1,2 +1,2 @@
 default:
-  application: edge
+  application: stage
