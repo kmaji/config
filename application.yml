@@ -1,2 +1,2 @@
 default:
-  application: stage
+  application: app
